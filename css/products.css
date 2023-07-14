@@ -9,6 +9,8 @@ body{
     padding: 0;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
     background: url(../images/2e80737cf50b6e201a613013280a3873.jpeg);
     background-position: center;
 }
